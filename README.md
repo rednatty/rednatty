@@ -1,6 +1,6 @@
 
 <h3 align="center">👋 Hi, I’m @rednatty</h3>
-<h3 align="left">My stack</h3>
+<h3 align="left">My stack:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
